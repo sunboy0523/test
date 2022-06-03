@@ -25,8 +25,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "موارد مدير المصنع"
+      "filterable": 0
     },
     {
       "key": "csp_NaNa",
@@ -35,8 +34,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "سبعة وسبعة"
+      "filterable": 0
     },
     {
       "key": "csp_Buka",
@@ -45,8 +43,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "حقا ليس عالقا"
+      "filterable": 0
     },
     {
       "key": "csp_Auete",
@@ -55,8 +52,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "أويتي"
+      "filterable": 0
     },
     {
       "key": "csp_DiDuan",
@@ -65,8 +61,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "السينما والتلفزيون الرديئة"
+      "filterable": 0
     },
     {
       "key": "csp_AliPanSou",
@@ -75,8 +70,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "مواء الراكون"
+      "filterable": 0
     },
     {
       "key": "csp_GitCafe",
@@ -85,8 +79,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "ملاحظة"
+      "filterable": 0
     },
     {
       "key": "csp_Concert",
@@ -95,8 +88,7 @@
       "api": "csp_ColaCat",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "حفلة موسيقية"
+      "filterable": 1
     },
     {
       "key": "csp_Animal",
@@ -105,18 +97,7 @@
       "api": "csp_ColaCat",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "عالم الحيوان"
-    },
-    {
-      "key": "push_agent",
-      "name": "🍭 推送",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "علي"
+      "filterable": 1
     }
   ],              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="]}]}],
   "parses": [
