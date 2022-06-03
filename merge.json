@@ -25,7 +25,7 @@
       "api": "csp_CZSPP",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "七七",
@@ -43,7 +43,7 @@
       "api": "csp_Buka",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Auete",
@@ -52,7 +52,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_DiDuan",
@@ -61,8 +61,15 @@
       "api": "csp_DiDuan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
+    {"key":"csp_Lgyy","name":"🐼蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_JuHuang","name":"🐼剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Fantuan","name":"🐼饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_DY1990","name":"🐼90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
     {
       "key": "csp_AliPanSou",
       "name": "🐱 喵狸盘搜",
@@ -70,7 +77,7 @@
       "api": "csp_AliPanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_GitCafe",
@@ -79,7 +86,7 @@
       "api": "csp_GitCafe",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Concert",
