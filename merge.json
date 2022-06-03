@@ -82,24 +82,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Concert",
-      "name": "🎤 演唱会",
-      "type": 3,
-      "api": "csp_Concert",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Animal",
-      "name": "🐘 动物世界",
-      "type": 3,
-      "api": "csp_Animal",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
     }
   ],              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="]}]}],
   "parses": [
